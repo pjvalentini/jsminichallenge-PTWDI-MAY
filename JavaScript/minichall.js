@@ -52,7 +52,7 @@ var names = ["Bill", "PJ", "Jen"];
 // Run the function enteredName() with a string to confirm that the name entered is "Philip".
 printName(userName);
 // Passing in the indexes of the array in to the function.
-printName(names[0]); // prints "Bill is the name that has as been entered"
+printName(names[0]); // prints "Bill is the name that has been entered"
 printName(names[1]); // prints "PJ is the name that has been entered"
 printName(names[2]); // prints "Jen is the name that has been entered"
 
